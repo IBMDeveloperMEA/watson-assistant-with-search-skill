@@ -5,9 +5,9 @@
 ## Login/ Signup to IBM Cloud:  [https://ibm.biz/Bdfmfp](https://ibm.biz/Bdfmfp)
 
 There are 3 steps to create your account on IBM Cloud: 
-1- Put your email and password. 
-2- You get a verification link with the registered email to verify your account. 
-3- Fill the personal information fields. 
+1. Put your email and password. 
+2. You get a verification link with the registered email to verify your account. 
+3. Fill the personal information fields. 
 
 ![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
 
