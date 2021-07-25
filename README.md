@@ -12,7 +12,7 @@ There are 3 steps to create your account on IBM Cloud:
 ![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
 
 ## Slides for the Webinar: 
-[https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july}(https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july)
+[https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july](https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july)
 
 ## Enhance customer helpdesks with Smart Document Understanding using Assistant Search Skill
 
