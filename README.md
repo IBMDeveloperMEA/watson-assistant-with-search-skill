@@ -101,7 +101,7 @@ The services are not available by default. An administrator must install them on
 <p>
 <h5>Create the service instances</h5>
   <ul>
-    <li>If you do not have an IBM Cloud account, register for a free trial account <a href="https://cloud.ibm.com/registration">here</a>.</li>
+    <li>If you do not have an IBM Cloud account, register for a free trial account <a href="https://ibm.biz/Bdfmfp">here</a>.</li>
     <li>Create a <b>Assistant</b> instance from <a href="https://cloud.ibm.com/catalog/services/watson-assistant">the catalog</a>.</li>
     <li>Create a <b>Discovery</b> instance from <a href="https://cloud.ibm.com/catalog/services/discovery">the catalog</a>.</li>
   </ul>
