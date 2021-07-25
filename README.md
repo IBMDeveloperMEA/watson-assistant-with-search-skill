@@ -1,5 +1,8 @@
 [![Build Status](https://api.travis-ci.org/IBM/watson-discovery-sdu-with-assistant.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-sdu-with-assistant)
 # Login/ Signup to IBM Cloud:  [https://ibm.biz/Bdfmfp](https://ibm.biz/Bdfmfp)
+
+![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
+
 # Enhance customer helpdesks with Smart Document Understanding using Assistant Search Skill
 
 In this code pattern, we walk you through a working example of a web app that utilizes multiple Watson services to create a better customer care experience.
