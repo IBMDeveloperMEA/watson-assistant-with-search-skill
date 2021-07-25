@@ -1,5 +1,8 @@
 [![Build Status](https://api.travis-ci.org/IBM/watson-discovery-sdu-with-assistant.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-sdu-with-assistant)
-# Login/ Signup to IBM Cloud:  [https://ibm.biz/Bdfmfp](https://ibm.biz/Bdfmfp)
+# Introducing the power of unstructured data to your chatbot with ibm watson
+
+
+## Login/ Signup to IBM Cloud:  [https://ibm.biz/Bdfmfp](https://ibm.biz/Bdfmfp)
 
 There are 3 steps to create your account on IBM Cloud: 
 1- Put your email and password. 
@@ -8,9 +11,9 @@ There are 3 steps to create your account on IBM Cloud:
 
 ![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
 
-# Slides for the Webinar: [https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july](https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july)
+## Slides for the Webinar: [https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july](https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july)
 
-# Enhance customer helpdesks with Smart Document Understanding using Assistant Search Skill
+## Enhance customer helpdesks with Smart Document Understanding using Assistant Search Skill
 
 In this code pattern, we walk you through a working example of a web app that utilizes multiple Watson services to create a better customer care experience.
 
