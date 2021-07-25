@@ -1,7 +1,14 @@
 [![Build Status](https://api.travis-ci.org/IBM/watson-discovery-sdu-with-assistant.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-sdu-with-assistant)
 # Login/ Signup to IBM Cloud:  [https://ibm.biz/Bdfmfp](https://ibm.biz/Bdfmfp)
 
+There are 3 steps to create your account on IBM Cloud: 
+1- Put your email and password. 
+2- You get a verification link with the registered email to verify your account. 
+3- Fill the personal information fields. 
+
 ![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
+
+# Slides for the Webinar: [https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july](https://www.slideshare.net/AnamMahmood10/introducing-the-power-of-unstructured-data-to-your-chatbot-with-ibm-watson-25th-july)
 
 # Enhance customer helpdesks with Smart Document Understanding using Assistant Search Skill
 
